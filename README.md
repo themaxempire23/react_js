@@ -1,1 +1,1 @@
-# Next.js and React
+Understanding how the UI really works with React
